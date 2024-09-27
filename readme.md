@@ -18,6 +18,14 @@ Task Requirements:
 * A responsive design that works well on both desktop and mobile devices.
 * A brief README file explaining the project.
 
+Key Concepts
+The code leverages several key concepts in JavaScript:
+
+* DOM Manipulation: The code interacts with HTML elements to display entries and totals.
+* Event Handling: It listens for user actions, such as button clicks and radio button changes.
+* Local Storage: The application stores entries in the browser's local storage, ensuring data persistence across sessions.
+* Array Methods: It utilizes methods like filter, reduce, and forEach to manage and compute financial data.
+
 Code Structure:
 The code is structured into several functions, each serving a specific purpose:
 
